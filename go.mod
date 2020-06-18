@@ -1,4 +1,4 @@
-module go-git-test
+module github.com/andriy-bulynko/go-git-test
 
 go 1.13
 
